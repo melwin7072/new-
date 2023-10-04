@@ -1,0 +1,10 @@
+n1=int(input('enter 1st number:'))
+n2=int(input('enter 2nd number:'))
+sum=n1+n2
+print('result=',sum)
+diff=n1-n2
+print('difference=',diff)
+pro=n1*n2
+print('product=',pro)
+div=n1/n2
+print('division=',div)
